@@ -12,10 +12,10 @@
 
 目录解构
 
-java.zip   							后台的写API  供前端调用
-Vue.zip 							前端vue写的界面
-waterwarm.sql 						数据库 一共四张表
-WaterWarm.war 						可以直接部署到Tomcat上的war包
+WaterWarm1.0   					后台Sevlet的写API  供前端调用
+vuepro 									前端vue写的界面
+waterwarm.sql 					  数据库 一共四张表
+WaterWarm.war 				   可以直接部署到Tomcat上的war包
 
 
 
